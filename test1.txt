@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6AED-09B6
+
+ Directory of C:\Users\ADMIN\Desktop\MyFlder
+
+04-04-2020  14:00    <DIR>          .
+04-04-2020  14:00    <DIR>          ..
+04-04-2020  14:00                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  142,734,979,072 bytes free
